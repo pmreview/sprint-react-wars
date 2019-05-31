@@ -1,0 +1,16 @@
+.div {
+    display: flex;
+    flex-direction: column;
+}
+
+.h1 {
+    color: gray;
+    background-color: beige;
+    padding: 20px;
+}
+
+p {
+    color: white;
+    background-color: maroon;
+    padding: 15px;
+} 
