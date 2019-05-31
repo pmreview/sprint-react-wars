@@ -1,7 +1,7 @@
 import React from "react";
 import './StarWars.css'
 
-const character = props => {
+const Character = props => {
     return (
         <div class="div">
             <h1 class="h1">Name: {props.characters.name}</h1>
@@ -16,4 +16,4 @@ const character = props => {
     )
 }
 
-export default character;
+export default Character 
