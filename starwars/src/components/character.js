@@ -1,5 +1,5 @@
 import React from "react";
-import './style.css'
+import './StarWars.css'
 
 const character = props => {
     return (
